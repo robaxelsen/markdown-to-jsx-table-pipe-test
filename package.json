@@ -10,11 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "markdown-to-jsx": "^6.10.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "markdown-to-jsx": "^6.10.2",
+    "raw-loader": "^3.1.0",
     "webpack": "^4.38.0",
     "webpack-cli": "^3.3.6"
   }
